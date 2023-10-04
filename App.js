@@ -1,8 +1,8 @@
 import React from 'react';
-import ImageComponentLocale from './view/ImageComponent';
-import { styles } from './style/style';
+import ImageComponentLocale from './src/view/ImageComponent';
+import { styles } from './src/style/style';
 import { SafeAreaView, Text } from 'react-native';
-import Action from './view/TextInput';
+import Action from './src/view/TextInput';
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>

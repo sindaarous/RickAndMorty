@@ -21,12 +21,21 @@ A Rick And Morty simple app that loads information from The Rick and Morty API t
 'react-native-vector-icons/FontAwesome' to get icons in ower case use close icon .
 
 ---
-ALL the data collected with REST from: https://rickandmortyapi.com/api/character .<br>
+
+ALL the data collected with REST from: https://rickandmortyapi.com/api/character .
+
 ---
 ## Installation
 
 * Clone the repo
-https://github.com/sindaarous/RickAndMorty.git
+  
+  `git clone https://github.com/sindaarous/RickAndMorty.git`
 
 * And then we can use the normal build and run procedure
-  npm i 
+
+  `npm i`
+
+  `cd RickAndMorty`
+  
+  `npx expo start --tunnel`
+  
