@@ -13,8 +13,20 @@ A Rick And Morty simple app that loads information from The Rick and Morty API t
 </p>
 
 ## I used
-'React' and 'react-native' to general structure of the application.<br>
-'axios' to get data with REST.<br>
-'react-native-vector-icons/FontAwesome' to get icons in ower case use close icon .<br>
+---
+'React' and 'react-native' to general structure of the application. 
+
+'axios' to get data with REST.
+
+'react-native-vector-icons/FontAwesome' to get icons in ower case use close icon .
+
 ---
 ALL the data collected with REST from: https://rickandmortyapi.com/api/character .<br>
+---
+## Installation
+
+* Clone the repo
+https://github.com/sindaarous/RickAndMorty.git
+
+* And then we can use the normal build and run procedure
+  npm i 
