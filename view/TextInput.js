@@ -1,8 +1,8 @@
 // MyComponent.js
 import React, { Component } from 'react';
 import { View, TextInput ,TouchableOpacity,Text} from 'react-native';
-import { styles } from './style/style';
-import { fetchCharacterData } from './controller/fetchCharacter'; 
+import { styles } from '../style/style';
+import { fetchCharacterData } from '../controller/fetchCharacter'; 
 import Popup from './PopUpComponent'; 
 class Action extends Component {
   

@@ -1,7 +1,7 @@
 import React from "react";
 import { Modal, View, Text, Image } from "react-native";
 import CloseButton from "./CloseButtonComponenet";
-import { styles } from "./style/style";
+import { styles } from "../style/style";
 const Popup = ({ isVisible, onClose, imageLink, nameCharactere }) => {
   return (
     <Modal

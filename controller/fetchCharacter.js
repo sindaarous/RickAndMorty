@@ -5,7 +5,7 @@ export const fetchCharacterData = async (characterName) => {
     const response = await axios.get(
       `https://rickandmortyapi.com/api/character/?name=${characterName}`
     );
-
+    
     const character = response.data.results[0];
     return character;
   } catch (error) {

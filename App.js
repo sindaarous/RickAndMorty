@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageComponentLocale from './view/ImageComponent';
-import { styles } from './view/style/style';
+import { styles } from './style/style';
 import { SafeAreaView, Text } from 'react-native';
 import Action from './view/TextInput';
 export default function App() {
