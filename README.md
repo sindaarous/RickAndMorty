@@ -2,7 +2,8 @@
 
 A Rick And Morty simple app that loads information from The Rick and Morty API to show one approach to using some of the best practices in React Native. 
 ## Screenshots
-![Image](https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/One.png  | width=100)
+<img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/One.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/One.png" width="200" height="400" />
+
 ## I used
 'React' and 'react-native' to general structure of the application.<br>
 'axios' to get data with REST.<br>
