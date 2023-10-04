@@ -1,5 +1,3 @@
-
-
 import React from 'react';
 import ImageComponentLocale from './view/ImageComponent';
 import { styles } from './view/style/style';
