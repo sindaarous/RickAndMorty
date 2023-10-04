@@ -5,8 +5,12 @@ A Rick And Morty simple app that loads information from The Rick and Morty API t
 <p float="left">
   <img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/One.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/One.png" width="200" height="400" />
   <img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Two.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Two.png" width="200" height="400" />
+   <img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Three.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Three.png" width="200" height="400" />
 </p>
-
+<p float="left">
+  <img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Four.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Four.png" width="200" height="400" />
+  <img src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Five.png" data-canonical-src="https://github.com/sindaarous/RickAndMorty/blob/master/screenshot/Five.png" width="200" height="400" />
+</p>
 
 ## I used
 'React' and 'react-native' to general structure of the application.<br>
